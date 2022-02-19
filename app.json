@@ -1,6 +1,6 @@
 {
   "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Legendagabot. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "Legendaga",
       "required": false
     },
     "ALIVE_MSG": {
